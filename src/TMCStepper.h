@@ -20,7 +20,7 @@
 #endif
 
 #if SW_CAPABLE_PLATFORM
-	#include <SoftwareSerial.h>
+//	#include <SoftwareSerial.h>
 #endif
 
 #include "source/SERIAL_SWITCH.h"
